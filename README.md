@@ -25,6 +25,13 @@ or use the following terminal command (with `CloudRush/src` as working directory
 It's the best/easiest to test the level Eindhoven (easy).
 We set the game duration for that level to 1 minute, so you don't have to  waste your time on the whole level just to fill in your nickname for the leaderboard.
 
+## Screenshots
+![Main menu](screenshots/main.png)
+![Eindhoven](screenshots/Eindhoven.png)
+![Warsaw](screenshots/Warsaw.png)
+![New york](screenshots/Newyork.png)
+![Instructions](screenshots/instruction.png)
+
 ## Credits
 During development of this game various free/open-source resources have been used:
 - [City skyline landmarks illustration](https://www.freepik.com/free-vector/city-skyline-landmarks-illustration_11852626.htm) by Freepik
